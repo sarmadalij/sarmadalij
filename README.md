@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sarmadalij<br>👀 I’m interested in Android development, web development, and backend technologies.<br>🌱 I’m currently expanding my expertise in advanced Android frameworks, enhancing my skills in ASP .NET technologies, and refining my experience in building scalable web applications and APIs.<br>💞️ I’m looking to collaborate on Android apps, web applications, and web APIs.<br>📫 You can reach me via GitHub or email.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy exploring both mobile and web development, and I'm always excited to learn new tech!
+👋 Hi, I’m @sarmadalij<br>👀 I’m interested in Android development, web development, and backend technologies.<br>🌱 I’m currently expanding my expertise in advanced Android frameworks, enhancing my skills in ASP .NET technologies, and refining my experience in building scalable web applications and APIs.<br>💞️ I’m looking to collaborate on Android apps, web applications, and web APIs.<br>📫 You can reach me via GitHub or email.<br>⚡ Fun fact: I enjoy exploring both mobile and web development, and I'm always excited to learn new tech!
 
 
 ## 🌐 Socials:
